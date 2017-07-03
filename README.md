@@ -1,0 +1,2 @@
+# cordova-httpd-snap
+
